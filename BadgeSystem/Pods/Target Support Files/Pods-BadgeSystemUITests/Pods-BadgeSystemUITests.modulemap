@@ -1,0 +1,6 @@
+framework module Pods_BadgeSystemUITests {
+  umbrella header "Pods-BadgeSystemUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

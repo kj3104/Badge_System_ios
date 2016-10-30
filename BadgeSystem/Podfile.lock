@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (4.0.1)
+  - IrohaSwift (1.0.0a5)
+  - KeychainAccess (3.0.1)
+  - PMAlertController (2.0.1)
+  - TextFieldEffects (1.3.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0)
+  - IrohaSwift (~> 1.0.0a5)
+  - KeychainAccess
+  - PMAlertController
+  - TextFieldEffects
+
+SPEC CHECKSUMS:
+  Alamofire: 7682d43245de14874acd142ec137b144aa1dd335
+  IrohaSwift: 824bde1dfdb8185d94dc795e1e482aee524d3242
+  KeychainAccess: 017ea25e313a49eda10bb19b0bb0760fb1edfe1a
+  PMAlertController: 8f809a67e740bd6ce1bb7d6017c12c94e997f64b
+  TextFieldEffects: ef594746f17997c813e07633f8ae5acaf9b04f27
+
+PODFILE CHECKSUM: 4e7e6a926c3bb3702c4a1031479987349735b536
+
+COCOAPODS: 1.1.0.rc.2
